@@ -9,7 +9,6 @@ tags
 *.pyc
 doc/api.xml
 tmp/
-node
 node_g
 *.swp
 .benchmark_reports
